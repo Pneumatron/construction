@@ -1,1 +1,1 @@
-# Gerber file for the Pneumatron Shield Printed Circuit Board (PCB)
+# Gerber file for the Printed Circuit Board (PCB) of Pneumatron Shield 
